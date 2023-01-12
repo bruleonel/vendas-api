@@ -1,4 +1,4 @@
-namespace vendas
+namespace vendas.Models
 {
     public class WeatherForecast
     {
